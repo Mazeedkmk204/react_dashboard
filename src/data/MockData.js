@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 import { tokens } from "../theme";
 
@@ -204,11 +204,11 @@ export const mockDataContacts = [
 export const mockDataInvoices = [
   {
     id: 1,
-    name: "Jon Snow",
-    email: "jonsnow@gmail.com",
-    cost: "21.24",
-    phone: "(665)121-5454",
-    date: "03/12/2022",
+    name: "Mazeed Khan",
+    email: "mazeedkmk@gmail.com",
+    cost: "21.52",
+    phone: "(7671)121-5454",
+    date: "03/11/2022",
   },
   {
     id: 2,
@@ -265,6 +265,14 @@ export const mockDataInvoices = [
     cost: "21.24",
     phone: "(222)444-5555",
     date: "05/02/2021",
+  },
+  {
+    id: 9,
+    name: "Jon Snow",
+    email: "jonsnow@gmail.com",
+    cost: "21.24",
+    phone: "(665)121-5454",
+    date: "03/12/2022",
   },
 ];
 
